@@ -47,7 +47,7 @@
 ![Dashboard principal](Pantalla_principal.png)
 
 ### Pronóstico a 5 días
-![Pronóstico](5dias.mp4)
+![Forecast demo](5dias.gif)
 
 </div>
 
